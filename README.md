@@ -1,5 +1,5 @@
 # Hey, I'm Hayat 👋
-### Platform & DevOps Engineer | London
+### Devops Engineer 
 
 Building production-grade cloud infrastructure on AWS from scratch.
 Focused on security, automation and reliability.
